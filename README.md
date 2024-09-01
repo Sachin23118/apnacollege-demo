@@ -2,6 +2,6 @@
 this is my first  git repositiory
 <br>
 
-Author-sachin kumar
+Author-sachin kumar(apna college)
 <br>
 place-noida
