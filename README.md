@@ -2,6 +2,9 @@
 this is my first  git repositiory
 <br>
 
-Author-sachin kumar(apna college)
+Author-sachin kumar 
 <br>
 place-noida
+<br>
+job -software developer
+
